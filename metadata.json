@@ -1,0 +1,8 @@
+{
+  "name": "Myntra Analytics",
+  "description": "Comprehensive analytics and business performance dashboard for Myntra (Project Phoenix)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
